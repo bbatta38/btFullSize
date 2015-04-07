@@ -1,2 +1,2 @@
 # btFullSize
-background cover effect
+background cover 효과
